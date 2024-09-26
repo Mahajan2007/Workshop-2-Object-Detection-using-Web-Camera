@@ -101,7 +101,8 @@ cv2.destroyAllWindows()
 
 ```
 ## OUTPUT:
-![Screenshot 2024-09-26 161130](https://github.com/user-attachments/assets/f31652c6-7863-48a7-9739-c62196293c43)
+
+![webajith](https://github.com/user-attachments/assets/b01e5ccd-8fe6-493d-941f-f5ad8c45085f)
 
 ## RESULT:
 Hence,we successfully deployed the code for object detection and real-life objects was successfully detected.
